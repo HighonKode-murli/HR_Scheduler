@@ -2,7 +2,7 @@
 
 This is a React-based application designed for scheduling and managing HR-related activities. The app provides dashboards and functionalities for admins, candidates, and experts.
 
-**Deployed App**: [HR Scheduler on GitHub Pages](https://HighonKode-murli.github.io/HR_Scheduler/)
+**App link**: [HR Scheduler](https://HighonKode-murli.github.io/HR_Scheduler/)
 
 ## Features
 
